@@ -15,7 +15,7 @@
 
 ![GalegoGTS GitHub stats](https://github-readme-stats.vercel.app/api?username=galegogts&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galegogts&hide_progress=true)](https://github.com/galegogts)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galegogts&hide_progress=true&theme=dracula)](https://github.com/galegogts)
 
 ## Meus conhecimentos e estudos
 
