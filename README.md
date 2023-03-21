@@ -12,7 +12,7 @@
 
 
 ## Meu Github 
-
+ 
 ![GalegoGTS GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=galegogts&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galegogts&hide_title=true&layout=compact&theme=dark&hide=ShaderLab,HLSL)](https://github.com/galegogts)
 
